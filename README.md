@@ -72,10 +72,10 @@ graph TD
         S4 -->|If Strong Enough| B
     end
     
-    classDef exchange fill:#f96,stroke:#333,stroke-width:2px
-    classDef processor fill:#bbf,stroke:#333,stroke-width:1px
-    classDef storage fill:#dfd,stroke:#333,stroke-width:1px
-    classDef signal fill:#ffd,stroke:#333,stroke-width:1px
+    classDef exchange fill:#f96,stroke:#333,stroke-width:2px,color:#000000
+    classDef processor fill:#bbf,stroke:#333,stroke-width:1px,color:#000000
+    classDef storage fill:#dfd,stroke:#333,stroke-width:1px,color:#000000
+    classDef signal fill:#ffd,stroke:#333,stroke-width:1px,color:#000000
     
     class X exchange
     class A,B,C,D processor
